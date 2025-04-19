@@ -1,0 +1,4 @@
+{
+  "rules": "node_modules/\nsrc/\n/readme.md",
+  "debug": false
+}
