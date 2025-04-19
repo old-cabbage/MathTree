@@ -1,0 +1,2 @@
+#Definition 
+Let $H_1$ and $H_2$ be [[Subgroup]]s of a group $G$ with the following properties:(i) every element of $H_1$ [[commute]]s with any element of $H_{2}$,i.e.$h_1h_{2}=h_{2}h_{1}$ for all $h_1\in H_{1}$ and $h_2\in H_{2};$and (ii) every element $g$ of $G$ can be written uniquely as $g=h_{1}h_{2}$ where $h_1\in H_{1}$ and $h_2\in H_{2}.$ In this case, $G$ is said to be the [[direct product]] of $H_1$ and $H_2$; symbolically, $G=H_1\otimes H_2.$

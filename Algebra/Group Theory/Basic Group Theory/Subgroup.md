@@ -1,0 +1,5 @@
+#Definition 
+(Subgroup): A subset $H$ of a [[Group]] $G$ which forms a group (according to Def. 2.1) under the same multiplication law as $G$ is said to form a subgroup of $G.$
+
+Example 1:  The four-group of Sec.2.1 has three distinct subgroups consisting of the elements $\{e,a\},\{e,b\}$,and $\{e,c\}$ respectively. The square of $a$,for instance, is $e.$ Hence${e,a}$ coincides with the group $C_2.$ The same is true for the other two subsets.
+Example 2:  The group S, has four distinct subgroups consisting of the elements $\{e,(12)\},\{e,(23)\},\{e,(31)\}$, and $\{e,(123),(321)\}$ respectively. The first three subgroups are again identical to the C$_2$ group. The last one, which is of order 3, has the structure of $C_3.$ This can be seen most readily by referring to the geometrical transformations discussed above in connection with Fig.2.2: each reflection about a given axis, together with the identity, form a subgroup; the two rotations, together with the identity, form another.

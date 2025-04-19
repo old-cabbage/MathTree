@@ -1,5 +1,5 @@
-#Difinition
-$\textbf{Definition 2.1 (A Group)}$: A set $\{G:a,b,c\ldots\}$ is said to form a group if there is an operation $\cdot$, called group multiplication, which associates any given (ordered) pair of elements $a$, $b \in G$ with a well-defined product $a \cdot b$ which is also an element of $G$, such that the following conditions are satisfied:
+#Definition 
+A set $\{G:a,b,c\ldots\}$ is said to form a group if there is an operation $\cdot$, called group multiplication, which associates any given (ordered) pair of elements $a$, $b \in G$ with a well-defined product $a \cdot b$ which is also an element of $G$, such that the following conditions are satisfied:
 
 (i) The operation $\cdot$ is associative, i.e. $a \cdot (b \cdot c) = (a \cdot b) \cdot c$ for all $a$, $b$, $c \in G$;
 

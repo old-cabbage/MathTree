@@ -1,0 +1,1 @@
+#Theorem Theorem  If $H$ is an [[Invariant Subgroup]] of $G$, the set of [[Cosets]] endowed with the law of multiplication $pH\cdot qH=(pq)H$ form a group, called the factor (on quotient) group of $G.$ The factor group is denoted by $G/H$, it is of order $n_G/n_H$

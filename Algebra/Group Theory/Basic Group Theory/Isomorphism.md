@@ -1,0 +1,2 @@
+#Definition 
+(Isomorphism): Two [[Group]]s $G$ and $G'$ are said to be isomorphic if there exists a one-to-one correspondence between their elements which preserves the law of [[Group]] multiplication. In other words, if $gi ∈ G ↔ gi' ∈ G'$ and $g1g2 = g3$ in $G$, then $g1'g2' = g3'$ in $G'$ and vice versa.

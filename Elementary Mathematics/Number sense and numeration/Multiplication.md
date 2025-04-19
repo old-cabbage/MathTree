@@ -1,4 +1,4 @@
-#Difinition 
+#Definition 
 Multiplication can also be thought of as [scaling](https://en.wikipedia.org/wiki/Scale_factor "Scale factor"). Here, 2 is being multiplied by 3 using scaling, giving 6 as a result.
 
 **Multiplication** is one of the four elementary mathematical operations of [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic"), with the other ones being [[Addition]](https://en.wikipedia.org/wiki/Addition "Addition"), [subtraction](https://en.wikipedia.org/wiki/Subtraction "Subtraction"), and [division](https://en.wikipedia.org/wiki/Division_(mathematics) "Division (mathematics)"). The result of a multiplication operation is called a _[product](https://en.wikipedia.org/wiki/Product_(mathematics) "Product (mathematics)")_. Multiplication is often denoted by the cross symbol, ×, by the mid-line dot operator, ·, by juxtaposition, or, on computers, by an asterisk, \*.

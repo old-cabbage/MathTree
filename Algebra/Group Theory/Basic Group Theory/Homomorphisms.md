@@ -1,0 +1,2 @@
+#Definition 
+(homomorphism): A homomorphism from a [[Group]] $G$ to another group $G^\prime$ is a [[map]]ping (not necessarily one-to-one) which preserves group multiplication. In other words, if $g_i\in G\to g_i^{\prime}\in G^{\prime}$ and $g_1g_2=g_3$, then $g_1^{\prime}g_2^{\prime}=g_3^{\prime}.$

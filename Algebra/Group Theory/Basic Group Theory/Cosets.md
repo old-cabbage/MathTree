@@ -1,0 +1,2 @@
+#Definition 
+(Cosets): Let $H=\{h_1,h_2,\ldots\}$ be a [[Subgroup]] of $G$ and let $p$ be an element of $G($one which is not in $H)$,then the set of elements $pH=\{ph_1,ph_2,\ldots\}$ is called a left coset of $H.$ Similarly, $Hp=\{h_1p,h_2p,\ldots\}$ is a right coset of $H.$

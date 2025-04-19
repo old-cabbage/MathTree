@@ -1,0 +1,4 @@
+#Theorem  
+(Lagrange): The order of a finite group must be an integer multiple of the order of any of its [[Subgroup]]s.
+Examples: Consider the permutation group $\mathcal{S}_3:($i) The subgroup $\{H_1:e,(123)$, $(321)\}$ has one coset $\{M:(12),(23),(31)\}$ obtained by multiplying the elements of $H_{1}$ from the left with any one of (12),(23), or (31);
+(ii) The subgroup $\{H_2:e,(12)\}$ has two left cosets: $\{M_1:(23),(321)\}$, obtained from $H_{2}$ by multiplication with either (23) or (321), and {M}$\{M_{2}:(31),(123)\}$, obtained from $H_{2}$ by multiplication with either (31) or (123). Wè illustrate schematically the partitioning of the elements of S$_3$ according to cosets and classes in Fig.2.3. We will use these results later.

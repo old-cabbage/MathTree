@@ -1,0 +1,2 @@
+#Definition 
+(Conjugate Elements): An element $b\in G$ is said to be conjugate to $a\in G$ if there exists another [[Group]] element $p\in G$ such that $b=pap^{-1}.$ We shall denote the conjugation relation by the symbol $\sim.$
