@@ -25,10 +25,14 @@
             "id": "f07c18ab6047530a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -181,6 +186,8 @@
   "active": "f07c18ab6047530a",
   "lastOpenFiles": [
     "README.md",
+    "Img/MathTree-4-21.png",
+    "Img",
     "新建文件夹",
     "Algebra/Group Theory/Basic Group Theory/Group.md",
     "Algebra/Group Theory/Direct Product Group.md",
@@ -207,14 +214,12 @@
     "subgroups.md",
     "homomorphism.md",
     "Algebra/Group Theory/Homomorphisms.md",
-    "Elementary Mathematics/Exponents and radicals/Square Root.md",
     "Elementary Mathematics/Slopes and trigonometry",
     "Elementary Mathematics/Congruence and similarity",
     "Elementary Mathematics/Three-dimensional geometry",
     "Elementary Mathematics/Exponents and radicals",
     "Elementary Mathematics/Negative numbers",
     "Elementary Mathematics/Analytic geometry",
-    "Elementary Mathematics/Basic two-dimensional geometry",
-    "Elementary Mathematics/Equations and formulas"
+    "Elementary Mathematics/Basic two-dimensional geometry"
   ]
 }

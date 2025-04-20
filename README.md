@@ -5,3 +5,5 @@
 
 This project aims to standardize the content and structure of mathematical definitions, axioms, lemmas, theorems, corollaries, conjectures, etc., so as to facilitate beginners and experienced scholars in recognizing the dependency of formulas, and in deducing new formulas based on existing formulas.  
 Project development based on the open source visual tree structure program [Obsidian](https://github.com/obsidianmd/obsidian-releases).  
+
+![MathTree Structure](/img/MathTree-4-21.png "MAthTree")
