@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 880.5
+    "width": 447.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +178,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05435d140b322df7",
+  "active": "f07c18ab6047530a",
   "lastOpenFiles": [
+    "README.md",
     "新建文件夹",
     "Algebra/Group Theory/Basic Group Theory/Group.md",
     "Algebra/Group Theory/Direct Product Group.md",
@@ -213,7 +215,6 @@
     "Elementary Mathematics/Negative numbers",
     "Elementary Mathematics/Analytic geometry",
     "Elementary Mathematics/Basic two-dimensional geometry",
-    "Elementary Mathematics/Equations and formulas",
-    "Elementary Mathematics/Number sense and numeration"
+    "Elementary Mathematics/Equations and formulas"
   ]
 }
