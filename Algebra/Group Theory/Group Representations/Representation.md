@@ -1,0 +1,2 @@
+#Definition 
+(Representations of a [[Group]]): If there is a homomorphism from a group $G$ to a group of operators $U(G)$ on a linear vector space V, we say that $U(G)$ forms a representation of the group $G.$ The dimension of the representation is the dimension of the vector space V.A representation is said to be faithful if the homomorphism is also an isomorphism (i.e. it is also one-to-one). A degenerate representation is one which is not faithful.
